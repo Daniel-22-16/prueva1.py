@@ -8,3 +8,6 @@ print("la suma es",a+b)
 a=5
 b=6
 print("la repuesta es",a*b)
+ 
+#saludando al prosor
+print("hi teacher")
